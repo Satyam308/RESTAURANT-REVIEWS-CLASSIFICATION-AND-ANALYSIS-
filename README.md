@@ -6,4 +6,4 @@ General steps of Natural Processing Are:-
 •	Remove all the unwanted words like Preposition, Conjuction, etc.
 •	Perform stemming or lemmatization.
 •	Use a ML and Deep Learning model to describe the Data.
-NATURAL LANGUAGE PROCESSING(NLP):-
+
